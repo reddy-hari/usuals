@@ -16,7 +16,8 @@ const usuals = require("usuals");
 
 ### Object Function Example
 
-Checks if a JavaScript Object is empty (inclusive of `null` and `undefined`) | `isObjectEmpty(inputObject)`
+`isObjectEmpty(inputObject)`
+Checks if a JavaScript Object is empty (inclusive of `null` and `undefined`)
 
 ```javascript
 const inputObject1 = {};
@@ -27,4 +28,14 @@ usuals.isObjectEmpty(inputObject1);
 
 // Returns false
 usuals.isObjectEmpty(inputObject2);
+```
+
+### String Function Example
+
+`generateLowerCaseString(10)`
+Returns a lowercase string of specified length
+
+```javascript
+// Returns a value with 14 random characters. [Example - vjjdnmhjlgdgwc]
+const str = usuals.generateLowerCaseString(14);
 ```
