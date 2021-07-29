@@ -11,20 +11,20 @@ npm i usuals
 ## Usage
 
 ```javascript
-const utils = require("usuals");
+const usuals = require("usuals");
 ```
 
-### objectEmpty(inputObject)
+### Object Function Example
 
-Checks if a JavaScript Object is empty (inclusive of `null` and `undefined`)
+Checks if a JavaScript Object is empty (inclusive of `null` and `undefined`) | `isObjectEmpty(inputObject)`
 
 ```javascript
 const inputObject1 = {};
 const inputObject2 = { foo: "bar" };
 
 // Returns true
-usuals.objectEmpty(inputObject1);
+usuals.isObjectEmpty(inputObject1);
 
 // Returns false
-usuals.objectEmpty(inputObject2);
+usuals.isObjectEmpty(inputObject2);
 ```
