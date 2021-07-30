@@ -1,11 +1,11 @@
 {
     "name": "usuals",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Usual utility functions for JavaScript",
-    "main": "src/main.js",
+    "main": "src/Main.js",
     "homepage": "https://github.com/reddy-hari/usuals/blob/main/README.md",
     "scripts": {
-        "test": "node tests/tests.js"
+        "test": "jest"
     },
     "repository": {
         "type": "git",
@@ -18,5 +18,8 @@
         "utilities"
     ],
     "author": "Hari Krishna Reddy",
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^27.0.6"
+    }
 }
