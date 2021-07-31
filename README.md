@@ -2,7 +2,9 @@
 
 This is a library [under development] for making dev life easier that includes all the common utility functions of frequent use.
 
-> Side Note: Currently we only have 2 contributors to this project. Do write to harireddy05@gmail.com should you want to be a part of this.
+### Side Note:
+
+> Currently we only have 2 contributors to this project. Do write to harireddy05@gmail.com should you want to be a part of this.
 
 ## Installation
 
