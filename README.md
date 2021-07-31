@@ -24,10 +24,10 @@ const inputObject1 = {};
 const inputObject2 = { foo: "bar" };
 
 // Returns true
-usuals.isObjectEmpty(inputObject1);
+usuals.objectFunctions.isObjectEmpty(inputObject1);
 
 // Returns false
-usuals.isObjectEmpty(inputObject2);
+usuals.objectFunctions.isObjectEmpty(inputObject2);
 ```
 
 ### String Function Example
@@ -37,7 +37,7 @@ Returns a lowercase string of specified length
 
 ```javascript
 // Returns a value with 14 random characters. [Example - vjjdnmhjlgdgwc]
-const str = usuals.generateLowerCaseString(14);
+const str = usuals.stringFunctions.generateLowerCaseString(14);
 ```
 
 ## <a name="side-note"></a> Side Note:
@@ -45,15 +45,14 @@ const str = usuals.generateLowerCaseString(14);
 - Currently we only have 2 contributors to this project.
 - Do write to harireddy05@gmail.com should you want to be a part of this.
 
-# <a name="bugs"></a> How to report bugs and issues?
+## <a name="bugs"></a> How to report bugs and issues?
 
-- Any bugs/issues reported would help improve the "usuals" library. 
-- Please do if you stumble upon them. 
-- You have our gratitude!
+- Any bugs/issues reported would help improve the "usuals" library.
+- Please do if you stumble upon them. You have our gratitude!
 
 > To report bugs and issues please use the GitHub issue reporting tool: https://github.com/reddy-hari/usuals/issues.
 
-# <a name="contribute"></a> Contribute!
+## <a name="contribute"></a> Contribute!
 
 Pull Requests are highly encouraged and appreciated.
 
