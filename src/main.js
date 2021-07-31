@@ -7,3 +7,6 @@ exports.stringFunctions = require('./StringFunctions.js');
 
 // Utility functions with and for Objects
 exports.objectFunctions = require('./ObjectFunctions.js');
+
+// Utility functions with and for Linked Lists
+exports.linkedListFunctions = require('./LinkedListFunctions.js');

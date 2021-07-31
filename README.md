@@ -43,8 +43,7 @@ const str = usuals.generateLowerCaseString(14);
 # <a name="bugs"></a> How to report bugs and issues?
 
 > To report bugs and issues please use the GitHub issue reporting tool: https://github.com/reddy-hari/usuals/issues.
-> Any bugs and issues reported are very much appreciated since it would help improve the "usuals" library.
-> Thank you!
+Any bugs and issues reported are very much appreciated since it would help improve the "usuals" library. Thank you!
 
 # <a name="contribute"></a> Contribute!
 
