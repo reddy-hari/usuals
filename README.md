@@ -2,10 +2,6 @@
 
 This is a library [under development] for making dev life easier that includes all the common utility functions of frequent use.
 
-### Side Note:
-
-> Currently we only have 2 contributors to this project. Do write to harireddy05@gmail.com should you want to be a part of this.
-
 ## Installation
 
 ```
@@ -44,9 +40,16 @@ Returns a lowercase string of specified length
 const str = usuals.generateLowerCaseString(14);
 ```
 
+## <a name="side-note"></a> Side Note:
+
+- Currently we only have 2 contributors to this project.
+- Do write to harireddy05@gmail.com should you want to be a part of this.
+
 # <a name="bugs"></a> How to report bugs and issues?
 
-Any bugs/issues reported would help improve the "usuals" library. Please do if you stumble upon them. You have our gratitude!
+- Any bugs/issues reported would help improve the "usuals" library. 
+- Please do if you stumble upon them. 
+- You have our gratitude!
 
 > To report bugs and issues please use the GitHub issue reporting tool: https://github.com/reddy-hari/usuals/issues.
 
