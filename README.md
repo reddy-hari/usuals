@@ -2,6 +2,8 @@
 
 This is a library [under development] for making dev life easier that includes all the common utility functions of frequent use.
 
+> Side Note: Currently we only have 2 contributors to this project. Do write to harireddy05@gmail.com should you want to be a part of this.
+
 ## Installation
 
 ```
@@ -42,11 +44,12 @@ const str = usuals.generateLowerCaseString(14);
 
 # <a name="bugs"></a> How to report bugs and issues?
 
+Any bugs/issues reported would help improve the "usuals" library. Please do if you stumble upon them. You have our gratitude!
+
 > To report bugs and issues please use the GitHub issue reporting tool: https://github.com/reddy-hari/usuals/issues.
-Any bugs and issues reported are very much appreciated since it would help improve the "usuals" library. Thank you!
 
 # <a name="contribute"></a> Contribute!
 
-Pull Requests are highly appreciated.
+Pull Requests are highly encouraged and appreciated.
 
-> Click :star: if you like the project.
+> Please :star: the repo if you like the project.
