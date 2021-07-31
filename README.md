@@ -39,3 +39,10 @@ Returns a lowercase string of specified length
 // Returns a value with 14 random characters. [Example - vjjdnmhjlgdgwc]
 const str = usuals.generateLowerCaseString(14);
 ```
+
+# <a name="bugs"></a> How to report bugs and issues?
+
+To report bugs and issues please use the GitHub issue reporting tool: https://github.com/reddy-hari/usuals/issues. 
+Any bugs and issues reports are very much appreciated since it would help improve the "usuals" library. Thank you!
+
+> Click :star:if you like the project. Pull Request are highly appreciated.
