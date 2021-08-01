@@ -1,6 +1,6 @@
 {
     "name": "usuals",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Usual utility functions for JavaScript",
     "main": "src/Main.js",
     "homepage": "https://github.com/reddy-hari/usuals/blob/main/README.md",
