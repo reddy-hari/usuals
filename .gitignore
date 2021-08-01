@@ -1,3 +1,5 @@
+# Everything to exclude
+
 # Logs
 logs
 *.log
