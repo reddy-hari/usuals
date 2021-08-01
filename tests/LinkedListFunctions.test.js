@@ -13,8 +13,8 @@ test('Test for function to create a Linked List', () => {
         l2.push(usuals.numberFunctions.generateRandomNumberInRange(1, 10))
         i++
     }
-    let first = usuals.linkedListFunctions.createLinkedListFromArray(l1)
-    let second = usuals.linkedListFunctions.createLinkedListFromArray(l2)
+    let first = usuals.linkedListFunctions.createSinglyLinkedListFromArray(l1)
+    let second = usuals.linkedListFunctions.createSinglyLinkedListFromArray(l2)
     expect(typeof (first)).toBe("object");
     expect(typeof (second)).toBe("object");
 });

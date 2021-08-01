@@ -1,6 +1,6 @@
 
-// Definition of a Node 
-class ListNode {
+// Definition of a Singly Node 
+class SinglyListNode {
     constructor(val, next) {
         this.val = (val === undefined ? 0 : val)
         this.next = (next === undefined ? null : next)
@@ -12,15 +12,15 @@ class ListNode {
 * @param {Array} arr 
 * @returns the head node of a Linked List
 */
-exports.createLinkedListFromArray = (arr) => {
+exports.createSinglyLinkedListFromArray = (arr) => {
     let head = null
     let randomNode = null
     arr.forEach(el => {
         if (!head) {
-            head = new ListNode(el)
+            head = new SinglyListNode(el)
             randomNode = head
         } else {
-            randomNode.next = new ListNode(el)
+            randomNode.next = new SinglyListNode(el)
             randomNode = randomNode.next
         }
     });

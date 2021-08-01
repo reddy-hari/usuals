@@ -10,3 +10,6 @@ exports.objectFunctions = require('./ObjectFunctions.js');
 
 // Utility functions with and for Linked Lists
 exports.linkedListFunctions = require('./LinkedListFunctions.js');
+
+// Utility functions with and for Arrays
+exports.arrayFunctions = require('./ArrayFunctions.js');
