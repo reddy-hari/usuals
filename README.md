@@ -6,6 +6,7 @@ This is a library [under development] for making dev life easier that includes a
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/reddy-hari/usuals)](https://github.com/reddy-hari/usuals/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/reddy-hari/usuals)](https://github.com/reddy-hari/usuals/issues)
 [![GitHub Code Size](https://img.shields.io/github/languages/code-size/reddy-hari/usuals)](https://github.com/reddy-hari/usuals)
+[![NPM Total Downloads](https://img.shields.io/npm/dt/usuals)](https://www.npmjs.com/package/usuals)
 [![GitHub Fork](https://img.shields.io/github/forks/reddy-hari/usuals?style=social)](https://github.com/reddy-hari/usuals)
 
 ## Installation
