@@ -2,13 +2,11 @@
 
 This is a library [under development] for making dev life easier that includes all the common utility functions of frequent use.
 
+[![Version](https://img.shields.io/npm/v/usuals)](https://www.npmjs.com/package/usuals)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/reddy-hari/usuals)](https://github.com/reddy-hari/usuals/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/reddy-hari/usuals)](https://github.com/reddy-hari/usuals/issues)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/reddy-hari/usuals)](https://github.com/reddy-hari/usuals)
-[![Version](https://img.shields.io/npm/v/usuals)](https://www.npmjs.com/package/usuals)
-[![NPM Package](https://img.shields.io/npm/l/usuals)](https://www.npmjs.com/package/usuals)
+[![GitHub Code Size](https://img.shields.io/github/languages/code-size/reddy-hari/usuals)](https://github.com/reddy-hari/usuals)
 [![GitHub Fork](https://img.shields.io/github/forks/reddy-hari/usuals?style=social)](https://github.com/reddy-hari/usuals)
-[![GitHub Repo Size in Bytes](https://img.shields.io/github/languages/code-size/reddy-hari/usuals)](https://github.com/reddy-hari/usuals)
 
 ## Installation
 
