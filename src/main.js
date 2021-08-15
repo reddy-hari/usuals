@@ -1,15 +1,15 @@
+import { DataStructures } from './dataStructures.js';
 
-// Utility functions with and for Numbers
-exports.numberFunctions = require('./NumberFunctions.js');
+const ds = new DataStructures();
+const nf = new ds.NumberFunctions();
+const sf = new ds.StringFunctions();
+const of = new ds.ObjectFunctions();
+const llf = new ds.LinkedListFunctions();
+const af = new ds.ArrayFunctions();
 
-// Utility functions with and for Strings
-exports.stringFunctions = require('./StringFunctions.js');
+export const numberFunctions = nf;
+export const stringFunctions = sf;
+export const objectFunctions = of;
+export const linkedListFunctions = llf;
+export const arrayFunctions = af;
 
-// Utility functions with and for Objects
-exports.objectFunctions = require('./ObjectFunctions.js');
-
-// Utility functions with and for Linked Lists
-exports.linkedListFunctions = require('./LinkedListFunctions.js');
-
-// Utility functions with and for Arrays
-exports.arrayFunctions = require('./ArrayFunctions.js');
