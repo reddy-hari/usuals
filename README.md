@@ -1,6 +1,6 @@
 # The 'usuals' Library
 
-This is a library [under development] for making dev life easier that includes all the common utility functions of frequent use.
+This is a library [under development] for making a developer's life easier that includes all the common utility functions of frequent use.
 
 [![Version](https://img.shields.io/npm/v/usuals)](https://www.npmjs.com/package/usuals)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/reddy-hari/usuals)](https://github.com/reddy-hari/usuals/pulls)
