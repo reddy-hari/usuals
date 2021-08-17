@@ -1,8 +1,8 @@
 {
     "name": "usuals",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Usual utility functions for JavaScript",
-    "main": "src/Main.js",
+    "main": "main.js",
     "homepage": "https://github.com/reddy-hari/usuals/blob/main/README.md",
     "scripts": {
         "test": "jest"
