@@ -18,7 +18,7 @@ npm i usuals
 ## Usage
 
 ```javascript
-const usuals = require("usuals");
+import * as usuals from "usuals";
 ```
 
 ### Object Function Example
