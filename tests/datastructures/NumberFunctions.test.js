@@ -1,4 +1,4 @@
-import { numberFunctions } from '../src/Main.js';
+import { numberFunctions } from 'usuals';
 
 test('Test for function to check if a random generated number is in the specified range', () => {
     let randomNumber_1 = numberFunctions.generateRandomNumberInRange(0, 500)

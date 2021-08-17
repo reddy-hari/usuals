@@ -1,4 +1,4 @@
-import { numberFunctions, arrayFunctions } from '../src/Main.js';
+import { numberFunctions, arrayFunctions } from 'usuals';
 
 test('Test for function to check if the first occurrence of an element is deleted from an array', () => {
     let randomArray = []

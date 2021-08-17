@@ -1,13 +1,6 @@
-class SinglyListNode {
+import { SinglyListNode } from './shared/shared'
 
-    constructor(val, next) {
-        this.val = (val === undefined ? 0 : val)
-        this.next = (next === undefined ? null : next)
-    }
-
-}
-
-class DataStructures {
+export class DataStructures {
 
     ArrayFunctions = class {
         deleteElement = (arr, value) => {
@@ -101,6 +94,3 @@ class DataStructures {
         }
     }
 }
-
-const _DataStructures = DataStructures;
-export { _DataStructures as DataStructures };
